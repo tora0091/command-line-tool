@@ -1,0 +1,21 @@
+{
+    "amadeusEndPoint": "",
+    "apiHeader": {
+        "host": "",
+        "soapAction": {
+            "auth": "",
+            "cryptic": ""
+        }
+    },
+    "apiParams": {
+        "sourceOffice": "",
+        "originatorTypeCode": "",
+        "originator": "",
+        "referenceQualifier": "",
+        "referenceIdentifier": "",
+        "organizationId": "",
+        "dataLength": "",
+        "dataType": "",
+        "binaryData": ""
+    }
+}
